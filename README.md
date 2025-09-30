@@ -1,4 +1,4 @@
-The purpose of this project is to analyze student demographics, class performance, and financial contributions within the school system in order to identify patterns in fee collection, ensure balanced participation across classes, and support data-driven decision-making for academic and financial planning.
+To analyze student demographics and financial contributions in various states within the India school systems in order to identify patterns in fee collection, analyze payments across all classes, and support data-driven decision-making for academic and financial planning.
 
 
 
